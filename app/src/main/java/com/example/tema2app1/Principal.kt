@@ -3,7 +3,7 @@ package com.example.tema2app1
 fun main() {
     mostrarSou()
    var nouSou = canviarSou(1500f, 200f)
-    println("El sou actual es $nouSou")
+    println("El sou actual es un snain $nouSou")
     println("El sou actual es ${canviarSou(1500f,400f)}")
 
 
